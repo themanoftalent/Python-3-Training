@@ -11,20 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="try_except.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Starting_with_hello/try_except.py">
+      <file leaf-file-name="try_KeyboardInterrupt.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Starting_with_hello/try_KeyboardInterrupt.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -47,13 +38,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Starting_with_hello/try_except.py" />
+        <option value="$PROJECT_DIR$/Starting_with_hello/try_KeyboardInterrupt.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
     <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -101,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try_except">
+  <component name="RunManager" selected="Python.try_KeyboardInterrupt">
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,6 +107,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="try_KeyboardInterrupt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-3-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starting_with_hello" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starting_with_hello/try_KeyboardInterrupt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,9 +151,11 @@
     <list>
       <item itemvalue="Python.hello" />
       <item itemvalue="Python.try_except" />
+      <item itemvalue="Python.try_KeyboardInterrupt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.try_KeyboardInterrupt" />
         <item itemvalue="Python.try_except" />
         <item itemvalue="Python.hello" />
       </list>
@@ -155,7 +167,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09715796" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15333775" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32561308" />
@@ -175,6 +187,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Starting_with_hello/try_except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -182,10 +201,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/try_except.py">
+    <entry file="file://$PROJECT_DIR$/Starting_with_hello/try_KeyboardInterrupt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
