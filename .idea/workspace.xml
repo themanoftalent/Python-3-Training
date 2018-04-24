@@ -23,8 +23,8 @@
       <file leaf-file-name="hello_world.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello_world.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state>
+              <caret selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -226,6 +226,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15333775" />
       <window_info anchor="bottom" id="Version Control" />
@@ -277,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state>
+          <caret selection-end-line="19" />
         </state>
       </provider>
     </entry>
