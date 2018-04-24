@@ -5,12 +5,12 @@
 #     print("Your name {}. letter: {}".format(i, name[i]))
 
 
-site1 = "www.google.com"
-site2 = "www.istihza.com"
-site3 = "www.yahoo.com"
-site4 = "www.gnu.org"
+website1 = "www.google.com"
+website2 = "www.istihza.com"
+website3 = "www.facebook.com"
+website4 = "www.guru99.com"
 
-for isim in site1, site2, site3, site4:
-    print("site: ", isim[4:-4]) #dört karekter önden 4 karekter arkadan alınıp
+for names in website1, website2, website3, website4:
+    print("site: ", names[4:-4]) #dört karekter önden 4 karekter arkadan alınıp
     print("----------------------------------")
-    print("Önerilen site simleri ", isim[:])
+    #print("Önerilen site simleri ", names[:])
