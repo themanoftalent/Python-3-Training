@@ -1,4 +1,4 @@
-# # here we are going to define a list
+# # here we are going to define a list # #
 # name = str(input("Enter your name : "))
 #
 # for i in range(len(name)):
