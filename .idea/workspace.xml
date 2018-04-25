@@ -10,17 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="for_loop_name.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Starting_with_hello/for_loop_name.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,11 +22,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>x</find>
+      <find>site4</find>
       <find>isim</find>
     </findStrings>
     <replaceStrings>
       <replace>number</replace>
       <replace>name</replace>
+      <replace>website4</replace>
+      <replace>names</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -54,12 +47,15 @@
         <option value="$PROJECT_DIR$/Starting_with_hello/hello_world.py" />
         <option value="$PROJECT_DIR$/Starting_with_hello/define_a_list.py" />
         <option value="$PROJECT_DIR$/Starting_with_hello/for_loop_name.py" />
+        <option value="$PROJECT_DIR$/02 Begin/fibonacci.py" />
+        <option value="$PROJECT_DIR$/02 Begin/guru_rematch.py" />
+        <option value="$PROJECT_DIR$/02 Begin/search_a_word.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="843" />
-    <option name="width" value="1084" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="827" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -77,7 +73,7 @@
             <path>
               <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="Starting_with_hello" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Begin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -91,6 +87,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Starting_with_hello" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training" />
@@ -108,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.for_loop_name">
+  <component name="RunManager" selected="Python.search_a_word">
     <configuration name="define_a_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +121,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Starting_with_hello\for_loop_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-3-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +162,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guru_rematch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,17 +170,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starting_with_hello" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starting_with_hello/hello_world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/guru_rematch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="raise_ValueError" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="search_a_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,48 +188,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starting_with_hello" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Starting_with_hello\raise_ValueError_factorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="raise_ValueError_factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-3-Training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Starting_with_hello" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Starting_with_hello/raise_ValueError_factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/search_a_word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.raise_ValueError" />
-      <item itemvalue="Python.hello_world" />
-      <item itemvalue="Python.raise_ValueError_factorial" />
       <item itemvalue="Python.define_a_list" />
       <item itemvalue="Python.for_loop_name" />
+      <item itemvalue="Python.fibonacci" />
+      <item itemvalue="Python.search_a_word" />
+      <item itemvalue="Python.guru_rematch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.search_a_word" />
+        <item itemvalue="Python.guru_rematch" />
+        <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.for_loop_name" />
         <item itemvalue="Python.define_a_list" />
-        <item itemvalue="Python.raise_ValueError_factorial" />
-        <item itemvalue="Python.raise_ValueError" />
-        <item itemvalue="Python.hello_world" />
       </list>
     </recent_temporary>
   </component>
@@ -220,13 +219,12 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="675" y="0" width="867" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20240964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1269002" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32506886" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3201635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -243,14 +241,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/raise_ValueError_factorial.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/raise_ValueError_factorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="19" />
@@ -258,38 +256,72 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello.py" />
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/raise_ValueError_factorial.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/raise_ValueError_factorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/try_except.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/try_except.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/try_KeyboardInterrupt.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/try_KeyboardInterrupt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/for_loop_name.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/for_loop_name.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Begin/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Begin/conditionals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Begin/search_a_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="209" column="16" lean-forward="true" selection-start-line="209" selection-start-column="16" selection-end-line="209" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#2360#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Begin/guru_rematch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#287#1" />
+          </folding>
         </state>
       </provider>
     </entry>
