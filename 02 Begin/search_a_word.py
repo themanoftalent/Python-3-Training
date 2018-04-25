@@ -1,5 +1,4 @@
 import re
-
 a_text = "We are the protector of :the universe!"
 
 matchme = re.search('\w{9}', a_text)
