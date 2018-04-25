@@ -1,9 +1,9 @@
 import re
-a_text = "We are the protector of :the universe!"
+atext = "We are the protector of :the universe!"
 
-matchme = re.search('\w{9}', a_text)
-matchme2 = re.search(r'u\w{7}', a_text) #istediğin harfle başlamak için önüne o harften koy
-matchme3 = re.search(r'^\w{2}', a_text)
+matchme = re.search('\w{9}', atext)
+matchme2 = re.search(r'u\w{7}', atext) #istediğin harfle başlamak için önüne o harften koy
+matchme3 = re.search(r'^\w{2}', atext)
 
 if matchme:
     print("Found ", matchme.group())

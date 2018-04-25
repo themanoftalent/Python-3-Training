@@ -10,7 +10,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="search_a_word.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02 Begin/search_a_word.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,12 +34,14 @@
       <find>x</find>
       <find>site4</find>
       <find>isim</find>
+      <find>a_text</find>
     </findStrings>
     <replaceStrings>
       <replace>number</replace>
       <replace>name</replace>
       <replace>website4</replace>
       <replace>names</replace>
+      <replace>atext</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -220,6 +232,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1269002" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -305,16 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/search_a_word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="209" column="16" lean-forward="true" selection-start-line="209" selection-start-column="16" selection-end-line="209" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#2360#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02 Begin/guru_rematch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -322,6 +325,13 @@
           <folding>
             <element signature="e#0#287#1" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Begin/search_a_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
