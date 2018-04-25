@@ -1,11 +1,3 @@
-'''Syntax for Regex Flags	What does this flag do
-[re.M]	Make begin/end consider each line
-[re.I]	It ignores case
-[re.S]	Make [ . ]
-[re.U]	Make { \w,\W,\b,\B} follows Unicode rules
-[re.L]	Make {\w,\W,\b,\B} follow locale
-[re.X]	Allow comment in Regex
-Example of re.M or Multiline Flags'''
 import re
 
 list = ["guru99 get", "guru99 give", "guru Selenium"]
