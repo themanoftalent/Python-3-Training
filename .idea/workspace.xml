@@ -11,20 +11,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="factorials.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 Begin/factorials.py">
+      <file leaf-file-name="switch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03 Jumptable/switch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oop_class.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02 Begin/oop_class.py">
+      <file leaf-file-name="conditionals.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 Loops/conditionals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            <state relative-caret-position="105">
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="for.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04 Loops/for.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iterators.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04 Loops/iterators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -44,6 +62,14 @@
       <find>site4</find>
       <find>isim</find>
       <find>a_text</find>
+      <find>jumptable</find>
+      <find>jumpingTabel</find>
+      <find>кино</find>
+      <find>покер</find>
+      <find>баскетбол</find>
+      <find>print</find>
+      <find />
+      <find>#</find>
     </findStrings>
     <replaceStrings>
       <replace>number</replace>
@@ -51,6 +77,12 @@
       <replace>website4</replace>
       <replace>names</replace>
       <replace>atext</replace>
+      <replace>jumpingTabel</replace>
+      <replace>jumpingTable</replace>
+      <replace>Books</replace>
+      <replace>Poker</replace>
+      <replace>Basketball</replace>
+      <replace>print(</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -61,28 +93,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Starting_with_hello/try_except.py" />
-        <option value="$PROJECT_DIR$/Starting_with_hello/try_KeyboardInterrupt.py" />
-        <option value="$PROJECT_DIR$/Starting_with_hello/try_except_def.py" />
-        <option value="$PROJECT_DIR$/Starting_with_hello/raise_ValueError.py" />
-        <option value="$PROJECT_DIR$/Starting_with_hello/hello_world.py" />
-        <option value="$PROJECT_DIR$/Starting_with_hello/define_a_list.py" />
-        <option value="$PROJECT_DIR$/Starting_with_hello/for_loop_name.py" />
-        <option value="$PROJECT_DIR$/02 Begin/fibonacci.py" />
-        <option value="$PROJECT_DIR$/02 Begin/guru_rematch.py" />
-        <option value="$PROJECT_DIR$/02 Begin/search_a_word.py" />
-        <option value="$PROJECT_DIR$/02 Begin/Mytext.txt" />
-        <option value="$PROJECT_DIR$/02 Begin/open_a_file.py" />
-        <option value="$PROJECT_DIR$/02 Begin/function_f1.py" />
-        <option value="$PROJECT_DIR$/02 Begin/factorials.py" />
-        <option value="$PROJECT_DIR$/02 Begin/oop_class.py" />
+        <option value="$PROJECT_DIR$/10 Databases/databases.py" />
+        <option value="$PROJECT_DIR$/10 Databases/databases-first.py" />
+        <option value="$PROJECT_DIR$/10 Databases/sqlite3-class.py" />
+        <option value="$PROJECT_DIR$/10 Databases/sqlite3-crud.py" />
+        <option value="$PROJECT_DIR$/11 Modules/modules.py" />
+        <option value="$PROJECT_DIR$/11 Modules/saytime.py" />
+        <option value="$PROJECT_DIR$/11 Modules/web-saytime.py" />
+        <option value="$PROJECT_DIR$/12 Debugging/incrange-errors.py" />
+        <option value="$PROJECT_DIR$/12 Debugging/mvc-errors.py" />
+        <option value="$PROJECT_DIR$/12 Debugging/saytime.py" />
+        <option value="$PROJECT_DIR$/12 Debugging/saytime-errors.py" />
+        <option value="$PROJECT_DIR$/12 Debugging/test-saytime.py" />
+        <option value="$PROJECT_DIR$/13 Projects/Extras/RSS/rss.py" />
+        <option value="$PROJECT_DIR$/13 Projects/Extras/RSS/rssdb.py" />
+        <option value="$PROJECT_DIR$/13 Projects/Extras/RSS/tkrss.py" />
+        <option value="$PROJECT_DIR$/13 Projects/lib/bwCGI.py" />
+        <option value="$PROJECT_DIR$/13 Projects/lib/bwConfig.py" />
+        <option value="$PROJECT_DIR$/13 Projects/lib/bwDB.py" />
+        <option value="$PROJECT_DIR$/13 Projects/lib/bwTL.py" />
+        <option value="$PROJECT_DIR$/13 Projects/lib/saytime.py" />
+        <option value="$PROJECT_DIR$/13 Projects/testimonials/bwCGI.py" />
+        <option value="$PROJECT_DIR$/13 Projects/testimonials/bwConfig.py" />
+        <option value="$PROJECT_DIR$/13 Projects/testimonials/bwDB.py" />
+        <option value="$PROJECT_DIR$/13 Projects/testimonials/bwTL.py" />
+        <option value="$PROJECT_DIR$/13 Projects/testimonials/db.py" />
+        <option value="$PROJECT_DIR$/13 Projects/testimonials/testimonials.py" />
+        <option value="$PROJECT_DIR$/14 Panda Types/import_panda.py" />
+        <option value="$PROJECT_DIR$/14 Panda Types/typed_object.py" />
+        <option value="$PROJECT_DIR$/14 Panda Types/material.py" />
+        <option value="$PROJECT_DIR$/14 Panda Types/render_states.py" />
+        <option value="$PROJECT_DIR$/14 Panda Types/render_effects.py" />
+        <option value="$PROJECT_DIR$/02 Begin/class_file.py" />
+        <option value="$PROJECT_DIR$/01 Starting_with_hello/average.py" />
+        <option value="$PROJECT_DIR$/01 Starting_with_hello/chessTable.py" />
+        <option value="$PROJECT_DIR$/01 Starting_with_hello/initials.py" />
+        <option value="$PROJECT_DIR$/02 Begin/matching.py" />
+        <option value="$PROJECT_DIR$/14 Class/class_1.py" />
+        <option value="$PROJECT_DIR$/200Extras/deneme.py" />
+        <option value="$PROJECT_DIR$/14 Class/employee_class.py" />
+        <option value="$PROJECT_DIR$/14 Class/Customer_class.py" />
+        <option value="$PROJECT_DIR$/200 Extras/dictionary_practice.py" />
+        <option value="$PROJECT_DIR$/200 Extras/import_subclasses.py" />
+        <option value="$PROJECT_DIR$/200 Extras/and-or.py" />
+        <option value="$PROJECT_DIR$/Class 7 lesson/Lesson 1/example.py" />
+        <option value="$PROJECT_DIR$/Class 7 lesson/Lesson 1/main.py" />
+        <option value="$PROJECT_DIR$/Class 7 lesson/Lesson 2/main.py" />
+        <option value="$PROJECT_DIR$/03 Jumptable/jumptable.py" />
+        <option value="$PROJECT_DIR$/03 Jumptable/switch.py" />
+        <option value="$PROJECT_DIR$/04 Loops/conditionals.py" />
+        <option value="$PROJECT_DIR$/04 Loops/for.py" />
+        <option value="$PROJECT_DIR$/04 Loops/iterators.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="969" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -99,7 +167,12 @@
             <path>
               <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="02 Begin" type="462c0819:PsiDirectoryNode" />
+              <item name="03 Jumptable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="04 Loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,12 +186,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\200 Extras" />
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Class 7 lesson" />
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Class 7 lesson\Lesson 1" />
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training" />
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\15 Strings" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Starting_with_hello" />
-      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -133,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oop_class">
-    <configuration name="factorials" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.while">
+    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,17 +218,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/factorials.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 Loops/for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="function_f1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,17 +236,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/function_f1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 Loops/iterators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="oop_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="loopcontrol" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,17 +254,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/oop_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 Loops/loopcontrol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="open_a_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="switch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,17 +272,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 Jumptable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/open_a_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 Jumptable/switch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="search_a_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,30 +290,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 Begin/search_a_word.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin\while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.search_a_word" />
-      <item itemvalue="Python.open_a_file" />
-      <item itemvalue="Python.function_f1" />
-      <item itemvalue="Python.factorials" />
-      <item itemvalue="Python.oop_class" />
+      <item itemvalue="Python.switch" />
+      <item itemvalue="Python.for" />
+      <item itemvalue="Python.iterators" />
+      <item itemvalue="Python.loopcontrol" />
+      <item itemvalue="Python.while" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.oop_class" />
-        <item itemvalue="Python.factorials" />
-        <item itemvalue="Python.function_f1" />
-        <item itemvalue="Python.open_a_file" />
-        <item itemvalue="Python.search_a_word" />
+        <item itemvalue="Python.while" />
+        <item itemvalue="Python.loopcontrol" />
+        <item itemvalue="Python.iterators" />
+        <item itemvalue="Python.for" />
+        <item itemvalue="Python.switch" />
       </list>
     </recent_temporary>
   </component>
@@ -248,10 +324,10 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09980172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3181818" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39509538" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -268,122 +344,239 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/raise_ValueError_factorial.py">
+    <entry file="file://$PROJECT_DIR$/14 Class/Customer_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/06 Regexes/raven.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" />
+        <state relative-caret-position="-1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Starting_with_hello/hello.py" />
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/raise_ValueError_factorial.py">
+    <entry file="file://$PROJECT_DIR$/07 Functions/function_f1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 Modules/web-saytime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 Projects/testimonials/testimonials.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-789" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/140 Panda Types/typed_objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/140 Panda Types/material.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/140 Panda Types/render_states.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/140 Panda Types/render_effects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.073/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/02 Begin/class_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/140 Panda Types/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/chessTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 Class/class_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/try_except.py">
+    <entry file="file://$PROJECT_DIR$/02 Begin/matching_interest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="299">
+          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/try_KeyboardInterrupt.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/initials.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-column="2" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/hello_world.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/for_loop_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/conditionals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/guru_rematch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#287#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/search_a_word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/open_a_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#85#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/Mytext.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/function_f1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/factorials.py">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/average.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/oop_class.py">
+    <entry file="file://$PROJECT_DIR$/14 Class/employee_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        <state relative-caret-position="513">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/thePro_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/cabd_python_classes-master/#1_Introduction.ipynb" />
+    <entry file="file://$PROJECT_DIR$/15 Strings/#3_Strings.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Classes-master/oo_design/2/Account.cpp" />
+    <entry file="file://$USER_HOME$/Desktop/darkartofcoding-master/weekly_class_materials/wk_01/noob_nook_01.ipynb" />
+    <entry file="file://$PROJECT_DIR$/14 Class/Customer_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/subclass_exercise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/dictionary_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/import_subclasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/and-or.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/stringFonk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200 Extras/Patter_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 3/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 4/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 5/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 6/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 7 lesson/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 Jumptable/jumptable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 Jumptable/switch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Loops/conditionals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Loops/for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Loops/iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

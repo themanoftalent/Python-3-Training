@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 # we use meaningful variable names instead of a,b or x
 
 # # number[0], number[1] = 5, 1 lets take input
