@@ -10,44 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="switch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03 Jumptable/switch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conditionals.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 Loops/conditionals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="for.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 Loops/for.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iterators.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04 Loops/iterators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,7 +31,7 @@
       <find>покер</find>
       <find>баскетбол</find>
       <find>print</find>
-      <find />
+      <find>#</find>
       <find>#</find>
     </findStrings>
     <replaceStrings>
@@ -93,14 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10 Databases/databases.py" />
-        <option value="$PROJECT_DIR$/10 Databases/databases-first.py" />
-        <option value="$PROJECT_DIR$/10 Databases/sqlite3-class.py" />
-        <option value="$PROJECT_DIR$/10 Databases/sqlite3-crud.py" />
-        <option value="$PROJECT_DIR$/11 Modules/modules.py" />
-        <option value="$PROJECT_DIR$/11 Modules/saytime.py" />
-        <option value="$PROJECT_DIR$/11 Modules/web-saytime.py" />
-        <option value="$PROJECT_DIR$/12 Debugging/incrange-errors.py" />
         <option value="$PROJECT_DIR$/12 Debugging/mvc-errors.py" />
         <option value="$PROJECT_DIR$/12 Debugging/saytime.py" />
         <option value="$PROJECT_DIR$/12 Debugging/saytime-errors.py" />
@@ -144,10 +99,18 @@
         <option value="$PROJECT_DIR$/04 Loops/conditionals.py" />
         <option value="$PROJECT_DIR$/04 Loops/for.py" />
         <option value="$PROJECT_DIR$/04 Loops/iterators.py" />
+        <option value="$PROJECT_DIR$/04 Loops/loopcontrol.py" />
+        <option value="$PROJECT_DIR$/04 Loops/while.py" />
+        <option value="$PROJECT_DIR$/05 Operators/ops-bitwise.py" />
+        <option value="$PROJECT_DIR$/05 Operators/ops.py" />
+        <option value="$PROJECT_DIR$/05 Operators/ops-boolean.py" />
+        <option value="$PROJECT_DIR$/05 Operators/ops-comparison.py" />
+        <option value="$PROJECT_DIR$/05 Operators/ops-container.py" />
+        <option value="$PROJECT_DIR$/07 Functions/functions-arglist.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -164,16 +127,6 @@
               <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="03 Jumptable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="04 Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -187,11 +140,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\200 Extras" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Class 7 lesson" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Class 7 lesson\Lesson 1" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training" />
-      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\15 Strings" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin" />
@@ -322,12 +275,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39509538" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -344,157 +296,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14 Class/Customer_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 Regexes/raven.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-compile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/function_f1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 Modules/web-saytime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13 Projects/testimonials/testimonials.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-789" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140 Panda Types/typed_objects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140 Panda Types/material.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="904">
-          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140 Panda Types/render_states.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140 Panda Types/render_effects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.073/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/02 Begin/class_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140 Panda Types/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/chessTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14 Class/class_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 Begin/matching_interest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/initials.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-column="2" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/average.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14 Class/employee_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200 Extras/thePro_started.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/cabd_python_classes-master/#1_Introduction.ipynb" />
-    <entry file="file://$PROJECT_DIR$/15 Strings/#3_Strings.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Classes-master/oo_design/2/Account.cpp" />
-    <entry file="file://$USER_HOME$/Desktop/darkartofcoding-master/weekly_class_materials/wk_01/noob_nook_01.ipynb" />
-    <entry file="file://$PROJECT_DIR$/14 Class/Customer_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200 Extras/subclass_exercise.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200 Extras/dictionary_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/200 Extras/import_subclasses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -552,17 +353,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03 Jumptable/switch.py">
+    <entry file="file://$PROJECT_DIR$/04 Loops/iterators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04 Loops/conditionals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -573,10 +367,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04 Loops/iterators.py">
+    <entry file="file://$PROJECT_DIR$/04 Loops/conditionals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-end-line="6" />
+        <state relative-caret-position="105">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 Jumptable/switch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Loops/loopcontrol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Begin/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 Operators/ops-bitwise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 Operators/ops.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 Operators/ops-boolean.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 Operators/ops-comparison.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 Operators/ops-container.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Regexes/raven.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Regexes/regex.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-matchexample.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-replace.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-replaceV2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 Functions/function_f1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 Functions/functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 Functions/functions-intro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 Functions/functions-arglist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 Functions/functions-namedargs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 Functions/functions-returningvalues.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 Functions/generator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Containers/containers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Containers/containers-dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Containers/containers-intro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Containers/containers-sequences.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Containers/containers-utf8file.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/files.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/files-copybinary.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/files_copytext_buffer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/files_copytext_simple.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/lines.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 Databases/databases.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 Databases/databases-first.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 Databases/sqlite3-class.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 Databases/sqlite3-crud.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 Modules/modules.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 Modules/saytime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
