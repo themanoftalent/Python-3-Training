@@ -10,53 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="regex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06 Regexes/regex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="regex-compile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06 Regexes/regex-compile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_a_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09 Files/create_a_file.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="files.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09 Files/files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lines.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09 Files/lines.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,10 +110,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -173,26 +127,6 @@
             <path>
               <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="01 Starting_with_hello" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="05 Operators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="06 Regexes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
-              <item name="09 Files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,12 +275,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3147139" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39509538" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -356,7 +290,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -490,17 +423,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09 Files/files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09 Files/lines.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/files-copybinary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/files_copytext_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
