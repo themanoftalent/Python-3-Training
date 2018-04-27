@@ -10,7 +10,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="regex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06 Regexes/regex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regex-compile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06 Regexes/regex-compile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_a_file.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09 Files/create_a_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12 Debugging/mvc-errors.py" />
-        <option value="$PROJECT_DIR$/12 Debugging/saytime.py" />
         <option value="$PROJECT_DIR$/12 Debugging/saytime-errors.py" />
         <option value="$PROJECT_DIR$/12 Debugging/test-saytime.py" />
         <option value="$PROJECT_DIR$/13 Projects/Extras/RSS/rss.py" />
@@ -107,19 +133,22 @@
         <option value="$PROJECT_DIR$/05 Operators/ops-comparison.py" />
         <option value="$PROJECT_DIR$/05 Operators/ops-container.py" />
         <option value="$PROJECT_DIR$/07 Functions/functions-arglist.py" />
+        <option value="$PROJECT_DIR$/06 Regexes/regex-compile.py" />
+        <option value="$PROJECT_DIR$/09 Files/create_a_file.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,11 +156,30 @@
               <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Starting_with_hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="05 Operators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="06 Regexes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-3-Training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-3-Training" type="462c0819:PsiDirectoryNode" />
+              <item name="09 Files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,7 +210,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.while">
+  <component name="RunManager" selected="Python.create_a_file">
+    <configuration name="create_a_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-3-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 Files/create_a_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,24 +283,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="switch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-3-Training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 Jumptable" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 Jumptable/switch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,19 +302,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.switch" />
       <item itemvalue="Python.for" />
       <item itemvalue="Python.iterators" />
       <item itemvalue="Python.loopcontrol" />
       <item itemvalue="Python.while" />
+      <item itemvalue="Python.create_a_file" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create_a_file" />
         <item itemvalue="Python.while" />
         <item itemvalue="Python.loopcontrol" />
         <item itemvalue="Python.iterators" />
         <item itemvalue="Python.for" />
-        <item itemvalue="Python.switch" />
       </list>
     </recent_temporary>
   </component>
@@ -275,11 +323,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39509538" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -291,6 +340,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39509538" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -330,21 +395,6 @@
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 3/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 4/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 5/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 7 lesson/Lesson 6/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 7 lesson/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/03 Jumptable/jumptable.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -395,115 +445,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05 Operators/ops-bitwise.py">
+    <entry file="file://$PROJECT_DIR$/11 Modules/saytime.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/05 Operators/ops.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 Operators/ops-boolean.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 Operators/ops-comparison.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 Operators/ops-container.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 Regexes/raven.txt">
+    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/average.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/06 Regexes/regex.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-compile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state>
+          <caret lean-forward="true" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-matchexample.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-replace.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-replaceV2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/function_f1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/functions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/functions-intro.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/functions-arglist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/functions-namedargs.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/functions-returningvalues.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 Functions/generator.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 Containers/containers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 Containers/containers-dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 Containers/containers-intro.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 Containers/containers-sequences.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08 Containers/containers-utf8file.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 Files/files.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 Files/files-copybinary.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 Files/files_copytext_buffer.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 Files/files_copytext_simple.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 Files/lines.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10 Databases/databases.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10 Databases/databases-first.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10 Databases/sqlite3-class.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10 Databases/sqlite3-crud.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 Modules/modules.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 Modules/saytime.py">
+    <entry file="file://$PROJECT_DIR$/06 Regexes/regex-compile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+          <caret lean-forward="true" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 Files/create_a_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
