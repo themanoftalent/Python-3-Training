@@ -30,9 +30,11 @@
       <find>кино</find>
       <find>покер</find>
       <find>баскетбол</find>
+      <find>#</find>
+      <find>&gt;&gt;&gt;</find>
+      <find>&gt;&gt;&gt;</find>
       <find>print</find>
-      <find>#</find>
-      <find>#</find>
+      <find>;</find>
     </findStrings>
     <replaceStrings>
       <replace>number</replace>
@@ -46,6 +48,7 @@
       <replace>Poker</replace>
       <replace>Basketball</replace>
       <replace>print(</replace>
+      <replace>)</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -56,13 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12 Debugging/test-saytime.py" />
-        <option value="$PROJECT_DIR$/13 Projects/Extras/RSS/rss.py" />
-        <option value="$PROJECT_DIR$/13 Projects/Extras/RSS/rssdb.py" />
-        <option value="$PROJECT_DIR$/13 Projects/Extras/RSS/tkrss.py" />
-        <option value="$PROJECT_DIR$/13 Projects/lib/bwCGI.py" />
-        <option value="$PROJECT_DIR$/13 Projects/lib/bwConfig.py" />
-        <option value="$PROJECT_DIR$/13 Projects/lib/bwDB.py" />
         <option value="$PROJECT_DIR$/13 Projects/lib/bwTL.py" />
         <option value="$PROJECT_DIR$/13 Projects/lib/saytime.py" />
         <option value="$PROJECT_DIR$/13 Projects/testimonials/bwCGI.py" />
@@ -107,13 +103,21 @@
         <option value="$PROJECT_DIR$/06 Regexes/regex-compile.py" />
         <option value="$PROJECT_DIR$/09 Files/create_a_file.py" />
         <option value="$PROJECT_DIR$/09 Files/lines.txt" />
+        <option value="$PROJECT_DIR$/08 Some Works/02_python.py" />
+        <option value="$PROJECT_DIR$/08 Some Works/03_python.py" />
+        <option value="$PROJECT_DIR$/08 Some Works/04_python.py" />
+        <option value="$PROJECT_DIR$/08 Some Works/05_python.py" />
+        <option value="$PROJECT_DIR$/08 Some Works/06_python.py" />
+        <option value="$PROJECT_DIR$/08 Some Works/01_python.py" />
+        <option value="$PROJECT_DIR$/08 Some Works/41_python.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="343" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -135,19 +139,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python code extraction" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\08 Some Works" />
+      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\200 Extras" />
       <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Class 7 lesson" />
-      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\Class 7 lesson\Lesson 1" />
-      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -162,8 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.files_copytext_simple">
-    <configuration name="create_a_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.41_python">
+    <configuration name="01_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,17 +175,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 Some Works" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 Files/create_a_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 Some Works/01_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="files-copybinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02_python" type="PythonConfigurationType" factoryName="Python">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,17 +193,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 Some Works" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 Files/files-copybinary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 Some Works/02_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,17 +211,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 Some Works" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 Files/files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 Some Works/04_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="files_copytext_simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,17 +229,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 Some Works" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 Files/files_copytext_simple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 Some Works/05_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-3-Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,30 +247,49 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 Some Works" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Mevlut Alkan\Documents\GitHub\Python-3-Training\02 Begin\while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 Some Works/06_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="41_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-3-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 Some Works" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 Some Works/41_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.while" />
-      <item itemvalue="Python.create_a_file" />
-      <item itemvalue="Python.files" />
-      <item itemvalue="Python.files-copybinary" />
-      <item itemvalue="Python.files_copytext_simple" />
+      <item itemvalue="Python.02_python" />
+      <item itemvalue="Python.04_python" />
+      <item itemvalue="Python.05_python" />
+      <item itemvalue="Python.06_python" />
+      <item itemvalue="Python.01_python" />
+      <item itemvalue="Python.41_python" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.files_copytext_simple" />
-        <item itemvalue="Python.files-copybinary" />
-        <item itemvalue="Python.files" />
-        <item itemvalue="Python.create_a_file" />
-        <item itemvalue="Python.while" />
+        <item itemvalue="Python.41_python" />
+        <item itemvalue="Python.01_python" />
+        <item itemvalue="Python.06_python" />
+        <item itemvalue="Python.05_python" />
+        <item itemvalue="Python.04_python" />
       </list>
     </recent_temporary>
   </component>
@@ -277,10 +300,9 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3147139" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3133515" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39509538" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -290,20 +312,21 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3147139" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39509538" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Python Console" order="8" />
     </layout-to-restore>
@@ -396,12 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 Modules/saytime.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Starting_with_hello/average.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/06 Regexes/regex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -448,6 +465,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/02_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/04_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/03_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/05_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/06_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/07_python.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/01_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/python-master/mask3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 Some Works/41_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
