@@ -1,6 +1,13 @@
-#Create a class that contains
-#information about employees of a company and
-#define methods to get/set employee name, job title, and start date.
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
 class Employee(object):
     '''Employees which can be hired (aggregated) by a company'''
 

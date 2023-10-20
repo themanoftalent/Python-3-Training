@@ -9,10 +9,17 @@
 #### **************************************** ####
 ##################################################
 
-a,b=1,1
-a,b=2,1
-a,b=3,2
-a,b=4,3
 
-say="less than" if a<b else "Not less than"
-print (say)
+
+# Create a rectangle pattern
+print("#" * 15)  # Top border
+for _ in range(7):
+    print("#" + " " * 13 + "#")  # Middle part with spaces
+print("#" * 15)  # Bottom border
+
+print("")  # Add a blank line
+
+# Create a staircase pattern
+for i in range(10):
+    print("#" * (i + 1))
+

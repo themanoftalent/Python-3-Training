@@ -1,6 +1,14 @@
-# Python three some new works easy
-# !_author_: Manoftalent
-# string format
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
+
 
 print(("So I said, \"You don't know me! You'll never understand me!\""))
 

@@ -1,3 +1,15 @@
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
+
+
 def health_calculator(age, apples_ate, cigs_smoked):
   answer = (100-age) + (apples_ate*3.5) - (cigs_smoked*2)
   print(answer)

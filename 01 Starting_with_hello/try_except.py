@@ -1,10 +1,26 @@
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
+
+
 while True:
-    aNumber = input("Enter a number: ")
-    if not aNumber:
+    user_input = input("Enter a number (or press Enter to quit): ")
+
+    if not user_input:
         break
+
     try:
-        aNumber=int(aNumber)
+        number = int(user_input)
+        result = number ** 2
+        print(f"The square of {number} is {result}")
     except ValueError:
-        print("Invalid input")
-        continue
-    print((aNumber) ** 2)
+        print("Invalid input. Please enter a valid number.")
+
+print("Exiting the program.")

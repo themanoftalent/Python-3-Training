@@ -9,10 +9,10 @@
 #### **************************************** ####
 ##################################################
 
-a,b=1,1
-a,b=2,1
-a,b=3,2
-a,b=4,3
+import webbrowser
+import time
 
-say="less than" if a<b else "Not less than"
-print (say)
+print ("this program started on " +time.ctime())
+for x in range (0, 2):
+    time.sleep (5)
+    webbrowser.open("https://www.youtube.com/watch?v=ZNra8eK0K6k")

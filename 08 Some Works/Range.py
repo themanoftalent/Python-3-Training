@@ -9,10 +9,8 @@
 #### **************************************** ####
 ##################################################
 
-a,b=1,1
-a,b=2,1
-a,b=3,2
-a,b=4,3
 
-say="less than" if a<b else "Not less than"
-print (say)
+#Find the numbers whıch can dive 4 and 4 multiple(tetragenous) in from 0 to 100
+for n in range(101):
+    if(n % 4 is 0):
+        print(n)

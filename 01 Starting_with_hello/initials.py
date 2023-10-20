@@ -1,8 +1,31 @@
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
+
+
+
+# Write a program that takes your full name as input and displays the abbreviations of the first and middle names except
+# the last name which is displayed as it is.
+
+
 name = input("Enter your full name here: ")
-initials = name[0: 1] + '. ' + name[name.find(' ') + 1: name.find(' ') + 2] + '. '
-name2 = name[name.find(' ') + 1:]
-if name2.find(' ') > 0:
-    initials += name2[name2.find(' ') + 1: name2.find(' ') + 2] + '. '
-    print(initials)
-else:
-    print(initials)
+
+# Split the full name into words
+words = name.split()
+
+# Initialize a variable to store the initials
+initials = ''
+
+# Iterate through the words and extract the first character of each
+for word in words:
+    initials += word[0] + '. '
+
+# Print the initials
+print(initials)

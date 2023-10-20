@@ -1,6 +1,13 @@
-# Python three some new works easy
-# !_author_: Manoftalent
-
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
 my_list = ['b','r','o','t','h','e','r']
 
 whattype=type(my_list)

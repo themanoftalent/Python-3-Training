@@ -1,16 +1,21 @@
-# # here we are going to define a list # #
-# name = str(input("Enter your name : "))
-#
-# for i in range(len(name)):
-#     print("Your name {}. letter: {}".format(i, name[i]))
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
 
 
 website1 = "www.google.com"
 website2 = "www.istihza.com"
 website3 = "www.facebook.com"
-website4 = "www.guru99.com"
+website4 = "www.twitter.com"
+
 
 for names in website1, website2, website3, website4:
-    print("site: ", names[4:-4]) #dört karekter önden 4 karekter arkadan alınıp
-    print("----------------------------------")
-    #print("Önerilen site simleri ", names[:])
+    print("Site : ", names[4:-4])
+

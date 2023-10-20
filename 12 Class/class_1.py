@@ -9,10 +9,29 @@
 #### **************************************** ####
 ##################################################
 
-a,b=1,1
-a,b=2,1
-a,b=3,2
-a,b=4,3
+from cgitb import strong
 
-say="less than" if a<b else "Not less than"
-print (say)
+
+class non_human():
+    brain = 2
+
+class animals(non_human):
+    legs = 4
+    def power(meal):
+        if meal > 0:
+            strong == meal*2
+
+class bird (non_human):
+    legs = 2
+    def power (meal):
+        if meal > 0:
+            strong == meal*1.5
+
+cows = animals()
+goats = animals()
+sheep = animals()
+pigs = animals()
+
+chickens = bird()
+gooses = bird()
+ducks = bird()

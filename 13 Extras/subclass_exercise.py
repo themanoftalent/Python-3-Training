@@ -1,5 +1,13 @@
-# Credit to http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/
-# for exercises 
+##################################################
+#### **************************************** ####
+#### !/usr/bin/python3                        ####
+#### -*- coding: utf-8 -*-                    ####
+#### @Time    : 2023/20/10 11:40              ####
+#### @Author  : themanoftalent                ####
+#### @Site:https://github.com/themanoftalent  ####
+#### @Project : python-app                    ####
+#### **************************************** ####
+##################################################
 
 class Pet(object):
     def __init__(self, name, species):

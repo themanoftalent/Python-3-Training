@@ -9,10 +9,17 @@
 #### **************************************** ####
 ##################################################
 
-a,b=1,1
-a,b=2,1
-a,b=3,2
-a,b=4,3
+print("Enter a number between 7 and 72:")
+y = input()
 
-say="less than" if a<b else "Not less than"
-print (say)
+try:
+    y = int(y)
+    if 7 <= y <= 72:
+        print("{} is a good number.".format(y))
+    elif y > 72:
+        print("That number is too big!")
+    else:
+        print("That number is too small!")
+except ValueError:
+    print("Invalid input. Please enter a valid number.")
+
