@@ -79,13 +79,13 @@ Understand the principles of object-oriented programming in Python, including cl
 Apply your newfound knowledge by working on practical projects. Combine different concepts you've learned to build useful Python applications.
 
 ## Resources
-
-- **Books**: "Python Crash Course" by Eric Matthes, "Automate the Boring Stuff with Python" by Al Sweigart.
-- **Online Tutorials**: Codecademy, Udemy, and Coursera offer Python courses.
-- **Documentation**: Python's official documentation is invaluable (https://docs.python.org/).
-
+- Books: "Python Crash Course" by Eric Matthes, "Automate the Boring Stuff with Python" by Al Sweigart.
+- Online Tutorials: Codecademy, Udemy, and Coursera offer Python courses.
+- Documentation: Python's official documentation is invaluable.
+____________
 ____________
 
 🌐 **All about Me** 🌐
 <br/>
 [🔗✨💼 Orcid](https://www.orcid.org) [🔗✨📚 ResearchGate](https://www.researchgate.net) [🔗✨✒️ Medium](https://www.medium.com) [🔗✨👔 LinkedIn](https://www.linkedin.com) [🔗✨🔬 SciProfiles](https://www.sciprofiles.com) [🔗✨📊 Web of Science](https://www.webofscience.com) [🔗✨🎓 TU Wien Profile](https://www.tuwien.ac.at/en)
+____________
