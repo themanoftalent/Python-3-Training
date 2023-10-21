@@ -86,7 +86,6 @@ Apply your newfound knowledge by working on practical projects. Combine differen
 
 ____________
 
-
-
-🌐 **All about Me** 🌐 <br/>
+🌐 **All about Me** 🌐
+<br/>
 [🔗✨💼 Orcid](https://www.orcid.org) [🔗✨📚 ResearchGate](https://www.researchgate.net) [🔗✨✒️ Medium](https://www.medium.com) [🔗✨👔 LinkedIn](https://www.linkedin.com) [🔗✨🔬 SciProfiles](https://www.sciprofiles.com) [🔗✨📊 Web of Science](https://www.webofscience.com) [🔗✨🎓 TU Wien Profile](https://www.tuwien.ac.at/en)
