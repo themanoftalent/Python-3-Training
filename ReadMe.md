@@ -84,8 +84,9 @@ Apply your newfound knowledge by working on practical projects. Combine differen
 - **Online Tutorials**: Codecademy, Udemy, and Coursera offer Python courses.
 - **Documentation**: Python's official documentation is invaluable (https://docs.python.org/).
 
+____________
 
 
+🌐 **All about Me** 🌐
 
-🌐All about Me 🌐
-🔗 Orcid 🔗 ResearchGate 🔗 Medium 🔗 LinkedIn 🔗 SciProfiles 🔗 Web of Science 🔗 TU Wien Profile
+🔗✨💼 Orcid 🔗✨📚 ResearchGate 🔗✨✒️ Medium 🔗✨👔 LinkedIn 🔗✨🔬 SciProfiles 🔗✨📊 Web of Science 🔗✨🎓 TU Wien Profile 🌟🌈
