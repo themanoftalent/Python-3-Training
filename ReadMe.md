@@ -87,5 +87,5 @@ ____________
 
 🌐 **All about Me** 🌐
 <br/>
-[🔗✨💼 Orcid](https://www.orcid.org) || [🔗✨📚 ResearchGate](https://www.researchgate.net) || [🔗✨✒️ Medium](https://www.medium.com) || [🔗✨👔 LinkedIn](https://www.linkedin.com)|| [🔗✨🔬 SciProfiles](https://www.sciprofiles.com) || [🔗✨📊 Web of Science](https://www.webofscience.com) || [🔗✨🎓 TU Wien Profile](https://www.tuwien.ac.at/en)
+[🔗✨💼 Orcid](https://www.orcid.org) || [🔗✨📚 ResearchGate](https://www.researchgate.net) || [🔗✨✒️ Medium](https://www.medium.com) || [🔗✨👔 LinkedIn](https://www.linkedin.com)|| [🔗✨🔬 SciProfiles](https://www.sciprofiles.com) || [🔗✨📊 Web of Science](https://www.webofscience.com) || [🔗✨🎓 TU Wien Pro](https://www.tuwien.ac.at/en)
 ____________
